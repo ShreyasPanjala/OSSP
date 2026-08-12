@@ -4,8 +4,8 @@ This repository contains my coursework, laboratory practicals, and skill-based a
 
 ## Repository Structure
 
-- 🌿 **practicals** – Laboratory practicals and experiment files.
-- 🌿 **skills** – Skill-based exercises and practice tasks.
+- 🌿 **practicals** 
+- 🌿 **skills** 
 
 Each category is maintained in its own Git branch to ensure better organization and version control.
 
